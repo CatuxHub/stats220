@@ -11,7 +11,6 @@ knitr::opts_chunk$set(echo=FALSE, message=FALSE, warning=FALSE, error=FALSE)
 
 ## How good at sudoku am I?
 
-You need to change the contents of this Rmd! Replace the R code and markdown give below in this template document.
 
 ```{r}
 library(tidyverse)
